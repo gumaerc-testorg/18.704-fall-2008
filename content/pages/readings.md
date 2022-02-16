@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8d680d40-2110-e944-e764-5c2ef39dcb86
 ---
@@ -55,7 +58,7 @@ Sections 1-3 and 1-4
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Polynomials of one variable, orderings on the monomials in _k_\[_x1_,...,_xn_\]
+Polynomials of one variable, orderings on the monomials in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\]
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 1-5, 2-1, and 2-2
@@ -67,7 +70,7 @@ Sections 1-5, 2-1, and 2-2
 4
 {{< tdclose >}}
 {{< tdopen >}}
-A division algorithm in _k_\[_x1_,...,_xn_\], monomial ideals and Dickson's lemma
+A division algorithm in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\], monomial ideals and Dickson's lemma
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 2-3 and 2-4
@@ -187,7 +190,7 @@ Sections 4-6 and 5-1
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Quotients of polynomials R, algorithmic computations in _k_\[_x1_,...,_xn_\]/_I_
+Quotients of polynomials R, algorithmic computations in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\]/_I_
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 5-2 and 5-3
