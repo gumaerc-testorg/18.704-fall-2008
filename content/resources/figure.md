@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fee3b78c-47d5-bb0a-ca4c-895f418ec0ed
 resourcetype: Other
 title: figure
 uid: 224d8fe4-51fb-7d35-c39e-4d329144788e
