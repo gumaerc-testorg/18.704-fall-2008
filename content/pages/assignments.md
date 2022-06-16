@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the list of assignments from the course textbook.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: dab16e15-3f11-f213-1300-027194244997
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Homework is assigned from the required textbook:

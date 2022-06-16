@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments from the course
+  textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 8d680d40-2110-e944-e764-5c2ef39dcb86
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The topics follow the order of the required textbook:

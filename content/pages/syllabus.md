@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the textbook, prerequisites, grading, homework, and the schedule
+  of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: abecda1a-cb82-5c38-0781-bafcfdd1529d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -41,7 +48,7 @@ Problems with numbers between braces are to be written up formally in TeX and pa
 Calendar
 --------
 
-The lecture sessions follow the contents of the course textbook. Two to four sessions are required to cover each chapter in the book. See the [readings]({{< baseurl >}}/pages/readings) section for specific topics per session.
+The lecture sessions follow the contents of the course textbook. Two to four sessions are required to cover each chapter in the book. See the {{% resource_link 8d680d40-2110-e944-e764-5c2ef39dcb86 "readings" %}} section for specific topics per session.
 
 ### Topics
 

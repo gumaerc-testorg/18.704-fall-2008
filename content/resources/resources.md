@@ -2,7 +2,7 @@
 content_type: resource
 description: Links to information on the TeX program and packages, available as freeware,
   shareware, or commercialware.
-file: /media/courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/7feafde34fdd66975a2677b39db4b959_resources.txt
+file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/7feafde34fdd66975a2677b39db4b959_resources.txt
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Other
 title: RESOURCES for (AMS-)LaTeX
 uid: 7feafde3-4fdd-6697-5a26-77b39db4b959
 ---
+Links to information on the TeX program and packages, available as freeware, shareware, or commercialware.
+
