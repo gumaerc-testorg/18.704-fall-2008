@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the list of assignments from the course textbook.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dab16e15-3f11-f213-1300-027194244997
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Homework is assigned from the required textbook:
@@ -57,7 +65,7 @@ p. 22: 1, 3, 4, {11}; p. 34: 3b, {9}, 10
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Polynomials of one variable, orderings on the monomials in _k_\[_x1_,...,_xn_\]
+Polynomials of one variable, orderings on the monomials in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\]
 {{< tdclose >}}
 {{< tdopen >}}
 p. 46: {9}, 10; p. 52: 5; p. 60: {2}, 10
@@ -69,7 +77,7 @@ p. 46: {9}, 10; p. 52: 5; p. 60: {2}, 10
 4
 {{< tdclose >}}
 {{< tdopen >}}
-A division algorithm in _k_\[_x1_,...,_xn_\], monomial ideals and Dickson's lemma
+A division algorithm in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\], monomial ideals and Dickson's lemma
 {{< tdclose >}}
 {{< tdopen >}}
 p. 68: {1}; p. 73: 3, {9}
@@ -189,7 +197,7 @@ p. 209: 1, {9}; p. 220: 8, 10
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Quotients of polynomials R, algorithmic computations in _k_\[_x1_,...,_xn_\]/_I_
+Quotients of polynomials R, algorithmic computations in _k_\[_x{{< sub "1" >}}_,...,_x{{< sub "n" >}}_\]/_I_
 {{< tdclose >}}
 {{< tdopen >}}
 p. 228: 1, 6; p. 237: 6, {8}
