@@ -4,6 +4,7 @@ description: 'One of two files intended to make it easier to get started with Te
   your term paper. The former has all the necessary structural declarations; the second
   also has some examples, illustrating some common formatting code. '
 file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/8350b8af26250740fb925b7e188a43a6_example.tex
+file_size: 10695
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
