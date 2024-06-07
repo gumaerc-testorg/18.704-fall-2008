@@ -7,6 +7,7 @@ description: 'These files are the two source files and two compiled versions of 
   but it serves as a reminder to write an introduction that includes background material
   and that discusses the contents. '
 file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/4787ba1c64ffc52ead0feed8fd5a627f_piiUJM2.tex
+file_size: 43446
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
