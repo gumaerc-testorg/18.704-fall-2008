@@ -6,7 +6,7 @@ description: 'These files are the two source files and two compiled versions of 
   old Phase Two Writing Requirement; its content is, in part, no longer relevant,
   but it serves as a reminder to write an introduction that includes background material
   and that discusses the contents. '
-file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/224d8fe451fb7d35c39e4d329144788e_figure.ps
+file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/224d8fe451fb7d35c39e4d329144788e_figure.ps
 file_size: 4178
 file_type: application/postscript
 learning_resource_types: []
