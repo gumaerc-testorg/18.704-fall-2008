@@ -82,6 +82,6 @@ Greuel, G.-M., and Gerhard Pfister. _A Singular Introduction to Commutative Alge
 
 Schenck, Hal. _Computational Algebraic Geometry_. London Mathematical Society student texts, 58. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521536509.
 
-CBMS Conference on Solving Polynomial Equations, and Bernd Sturmfels. _Solving Systems of Polynomial Equations_. Providence, RI: Published for the Conference Board of the Mathematical Sciences by the American Mathematical Society, 2002. A preliminary edition is available. ([PDF](https://math.berkeley.edu/~bernd/cbms.pdf))
+CBMS Conference on Solving Polynomial Equations, and Bernd Sturmfels. _Solving Systems of Polynomial Equations_. Providence, RI: Published for the Conference Board of the Mathematical Sciences by the American Mathematical Society, 2002. A preliminary edition is available. ({{% resource_link "3b6bf2e4-e87d-43e6-840a-4eb7dcaf7fdc" "PDF" %}})
 
 Vasconcelos, Wolmer V., and David Eisenbud. _Computational Methods in Commutative Algebra and Algebraic Geometry_. Algorithms and Computation in Mathematics, vol. 2. Berlin, Germany: Springer, 1997. ISBN: 9783540605201.
