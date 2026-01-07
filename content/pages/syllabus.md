@@ -33,7 +33,7 @@ Textbook
 
 Cox, David, John Little, and Donal O'Shea. _Ideals, Varieties, and Algorithms_. 3rd ed. Undergraduate Texts in Mathematics. New York, NY: Springer, 2007. ISBN: 9780387356518.
 
-Portions of the book are {{% resource_link "9aed36d1-0907-4edd-8b0b-05f1969dd3ea" "online" %}}.
+Portions of the book are [online](http://books.google.com/books?id=yCsDO425PC0C&printsec=frontcover&dq=Ideals,+Varieties,+and+Algorithms#PPA85,M1).
 
 Grading
 -------
